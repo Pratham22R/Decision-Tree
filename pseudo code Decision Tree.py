@@ -1,3 +1,5 @@
+Algorithm of Decision Tree
+
 Creates a new node.
 Checks if the node meets any stopping criteria, such as purity, maximum depth, or minimum information gain.
 If a stopping criterion is met, returns the node as a leaf node and stops further splitting.
